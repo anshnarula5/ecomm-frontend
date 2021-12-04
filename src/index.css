@@ -1,0 +1,14 @@
+main{
+  min-height: 80vh;
+}
+a{
+  text-decoration: none;
+  color:  inherit;
+}
+a:hover{
+  color: inherit;
+}
+
+h1{
+  padding: 0.3rem;
+}
